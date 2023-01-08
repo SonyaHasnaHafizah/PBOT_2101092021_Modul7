@@ -1,4 +1,6 @@
 # PBOT_2101092021_Modul7
+Modul 7 (Java Array)
+- Mengenai array dalam Java. Pertama, kita  akan mendefinisikan apa yang dimaksud dengan array, kemudian kita juga akan  mendefinisikan bagaimana mendeklarasikannya dan menggunakannya dalam Java. 
 
 Latihan 1 
 Hari dalam seminggu 
